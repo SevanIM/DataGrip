@@ -1,0 +1,2 @@
+# DataGrip
+NPUA Practice task
