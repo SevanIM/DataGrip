@@ -1,0 +1,32 @@
+.resultsFound {
+    background-color: inherit;
+    text-align: center;
+    color: red;
+    word-break: break-word;
+}
+
+.icon{
+    background-image: url('../assets/warning_icon.svg');
+    height: 20px;
+    width: 20px;
+}
+
+.noResultsFound{
+    background-color: inherit;
+    text-align: center;
+    color: green;
+    word-break: break-word;
+
+}
+
+.resultsFoundHeader{
+    font-weight: bolder;
+    font-size: larger;
+    margin: 2%;
+}
+
+.resultsFoundDescription, .noResultsFoundDescription{
+    font-weight: normal;
+    font-size: medium;
+    color: black;
+}

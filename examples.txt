@@ -1,0 +1,15 @@
+Sites with similar functionality
+
+https://haveibeenpwned.com/
+
+https://breachdirectory.org/
+
+https://leakcheck.net/
+
+https://checkleaked.cc/
+
+https://intelx.io/
+
+https://www.dehashed.com/
+
+https://mypwd.io/
